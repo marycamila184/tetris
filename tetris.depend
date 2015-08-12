@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1309032122 source:c:\users\vinicius\desktop\pi\codeblocks\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	"pecas.h"
+
+1309033254 c:\users\vinicius\desktop\pi\codeblocks\tetris\pecas.h
+	<stdio.h>
+	<stdlib.h>
+
+1309129141 source:c:\users\vinicius\desktop\pi\codeblocks\tetris - cópia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<math.h>
+	"pecas.h"
+	"recordes.h"
+
+1309210841 c:\users\vinicius\desktop\pi\codeblocks\tetris - cópia\pecas.h
+	<stdio.h>
+	<stdlib.h>
+
+1309129139 c:\users\vinicius\desktop\pi\codeblocks\tetris - cópia\recordes.h
+	<stdio.h>
+	<stdlib.h>
+
